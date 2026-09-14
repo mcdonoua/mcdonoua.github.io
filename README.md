@@ -7,7 +7,7 @@ Research Affiliate, Institute for Human Development and Disability (IHDD)
 
 
 # Research Interests
-- Microchimerism in the brain: influences on brain development, aging, injury, and disease
+- Microchimerism in the brain: influences on development, aging, injury, and disease
 
 - Innate immune signaling in microglia: type I interferons
 
