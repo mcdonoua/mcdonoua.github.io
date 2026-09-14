@@ -1,4 +1,3 @@
-
 # The McDonough Lab at the University of Washington
 
 <b>Ash McDonough, PhD</b>
@@ -43,4 +42,3 @@ Most recent:<br/>
 <a href="https://www.biorxiv.org/content/10.64898/2026.06.05.730225v1">Microchimerism in the human brain, quantitative assessment and single nuclei profiling establish cell types and diversity</a>
 
 <a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698513v3">A genetically encoded reporter reveals coordinated interferon responses in neurons and non-neuronal cells in the brain</a>
-
