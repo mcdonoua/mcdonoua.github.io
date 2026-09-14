@@ -7,11 +7,11 @@ Research Affiliate, Institute for Human Development and Disability (IHDD)
 
 
 # Research Interests
-- Microchimerism in the brain: brain development, aging, injury, and disease
+- Microchimerism in the brain: influences on brain development, aging, injury, and disease
 
 - Innate immune signaling in microglia: type I interferons
 
-- White matter ischemic preconditioning mediated protection in the central nervous system
+- White matter ischemic preconditioning mediated protection: assessing mechanisms and developing models
 
 # Current Lab Members
 Daphne Chao: undergraduate 499 student
