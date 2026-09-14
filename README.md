@@ -1,5 +1,4 @@
-<div style="background-color: #b4a7d6; min-height: 100vh; padding: 20px; color: #000000; font-family: sans-serif;">
-  
+
 # The McDonough Lab at the University of Washington
 
 <b>Ash McDonough, PhD</b>
@@ -45,4 +44,3 @@ Most recent:<br/>
 
 <a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698513v3">A genetically encoded reporter reveals coordinated interferon responses in neurons and non-neuronal cells in the brain</a>
 
-</div>
