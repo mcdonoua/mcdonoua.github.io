@@ -1,9 +1,7 @@
 # The McDonough Lab at the University of Washington
 
-<b>Ash McDonough, PhD</b>
-
-![Ash McDonough](https://neurology.uw.edu/wp-content/uploads/2024/08/AshMcDonough-150x250.jpg)
-
+![Ash McDonough](https://neurology.uw.edu/wp-content/uploads/2024/08/AshMcDonough-150x250.jpg)<br/>
+<b>Ash McDonough, PhD</b><br/>
 Assistant Professor, Department of Neurology<br/>
 Research Affiliate, Institute for Human Development and Disability (IHDD)
 
