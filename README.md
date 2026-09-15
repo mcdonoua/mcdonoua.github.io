@@ -14,9 +14,9 @@ Research Affiliate, Institute for Human Development and Disability (IHDD)
 - White matter ischemic preconditioning mediated protection: assessing mechanisms and developing models
 
 # Current Lab Members
-Daphne Chao: undergraduate 499 student
+Daphne Chao: undergraduate 499 student, UW Class of 2028
 
-Shruti Komethagan: undergraduate 499 student
+Shruti Komethagan: undergraduate 499 student, UW Class of 2027
 
 # Alumni
 Claire Pruner: <a href="https://neurosurgery.uw.edu/education/summer-student-programs">Neuroscience Summer Student Program</a> 2026
