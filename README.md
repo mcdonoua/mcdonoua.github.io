@@ -2,6 +2,7 @@
 
 ![Ash McDonough](https://neurology.uw.edu/wp-content/uploads/2024/08/AshMcDonough-150x250.jpg)<br/>
 <b>Ash McDonough, PhD</b><br/>
+<a href="https://tofflertrust.org/ashley-mcdonough/">2026 Toffler Scholar</a><br/>
 Assistant Professor, Department of Neurology<br/>
 Research Affiliate, Institute for Human Development and Disability (IHDD)
 
@@ -14,6 +15,8 @@ Research Affiliate, Institute for Human Development and Disability (IHDD)
 - White matter ischemic preconditioning mediated protection: assessing mechanisms and developing models
 
 # Current Lab Members
+Vismaya Jiju: undergraduate 499 student, UW Class of 2028
+
 Daphne Chao: undergraduate 499 student, UW Class of 2028
 
 Shruti Komethagan: undergraduate 499 student, UW Class of 2027
